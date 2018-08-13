@@ -29,7 +29,7 @@ Info retrieved from ```Apple -> About This Mac```
 - **gdb**: 8.1
 
 ## Build environment
-- **Volume for build**: /Volumes/crosstool-build-env *APFS Volume • APFS (Case-sensitive)*
-- **Volume for install**: /Volumes/RPi3-crosstool *APFS Volume • APFS (Case-sensitive)*
-- **Patches directory**: /Volumes/crosstool-build-env/patches. All patches pulled from [HERE](https://github.com/crosstool-ng/crosstool-ng/tree/master/packages)
+- **Volume for build**: */Volumes/xtool-build-env/* *APFS Volume • APFS (Case-sensitive)*
+- **Volume for install**: */Volumes/xtool-build-env/* *APFS Volume • APFS (Case-sensitive)*
+- **Patches directory**: */Volumes/xtool-build-env/packages/* All patches pulled from [HERE](https://github.com/crosstool-ng/crosstool-ng/tree/master/packages)
 - **ct-ng config file**: [.config](https://github.com/yc2986/armv8-rpi3-linux-gnueabihf-gcc-8.1.0-macos-high-sierra/blob/master/.config)
